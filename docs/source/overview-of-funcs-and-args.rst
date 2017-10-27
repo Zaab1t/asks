@@ -1,4 +1,4 @@
-asks - An overview of the functions and kw/argumetns.
+asks - An overview of the functions and kw/arguments.
 =====================================================
 
 asks is *heavily* influenced by requests, and as such pretty much everything that works in requests works in asks. So, if you're familiar with the format you can pretty much skip to the distinctions regarding `sessions <https://asks.readthedocs.io/en/latest/a-look-at-sessions.html>`_
